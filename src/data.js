@@ -5,7 +5,7 @@ const menu = [
     category: "breakfast",
     price: 15.99,
     img: "./images/item-1.jpeg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc:"Looking for a breakfast that will satisfy your sweet tooth? Look no further than our delicious buttermilk pancakes! Made with all-purpose flour, sugar, baking powder, baking soda, kosher salt, buttermilk, eggs, and melted butter, these pancakes are light, fluffy, and full of flavor. Top them with your favorite syrup, fruit, or whipped cream for the ultimate breakfast treat." ,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: "lunch",
     price: 13.99,
     img: "./images/item-2.jpeg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Our special double cafe menu features delicious French fries and burgers. You can choose from a variety of burgers, including the classic cheeseburger, hamburger, double cheeseburger, and double hamburger. `,
   },
   {
     id: 3,
@@ -21,7 +21,8 @@ const menu = [
     category: "shakes",
     price: 6.99,
     img: "./images/item-3.jpeg",
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `Our signature Godzilla milkshake is a delicious blend of vanilla ice cream, milk, and chocolate malt powder, topped with whipped cream.
+    Indulge in our famous Godzilla milkshake, made with the finest ingredients and served in a tall glass for the ultimate milkshake experience.`,
   },
   {
     id: 4,
@@ -29,7 +30,7 @@ const menu = [
     category: "breakfast",
     price: 20.99,
     img: "./images/item-4.jpeg",
-    desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+    desc: `Country Delight is our cafe's special breakfast that consists of Indian paneer, butter, and tasty pies. Our breakfast is a unique blend of flavors that is sure to satisfy your taste buds. The Indian paneer adds a savory touch, while the butter and pies provide a delicious sweetness. Come try our Country Delight breakfast today and start your day off right! `,
   },
   {
     id: 5,
@@ -37,7 +38,7 @@ const menu = [
     category: "lunch",
     price: 22.99,
     img: "./images/item-5.jpeg",
-    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    desc: `A Middle Eastern dish made with eggs poached in a flavorful tomato sauce, served with bread for dipping.Shakshuka can be served with crusty bread, pita bread, hummus, sauteed spinach, avocado fries, gluten-free bread, Israeli salad, couscous, labneh, roasted potatoes, olives, and feta cheese`,
   },
   {
     id: 6,
@@ -45,7 +46,8 @@ const menu = [
     category: "shakes",
     price: 18.99,
     img: "./images/item-6.jpeg",
-    desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    desc: `Shakshuka can be served with crusty bread, pita bread, hummus, sauteed spinach, avocado fries, gluten-free bread, Israeli salad, couscous, labneh, roasted potatoes, olives, and feta cheeseOreo Dream recipes that you can try:
+    Chocolate Oreo Cake: A three-layered moist chocolate cake filled and frosted with chocolaty, Oreo-packed buttercreamOreo Whipped Cream Frosting: A simple and flavorful filling and frosting for a chocolate layer cake, made by mixing crushed Oreo cookies into lightly sweetened whipped cream`,
   },
   {
     id: 7,
@@ -53,7 +55,7 @@ const menu = [
     category: "breakfast",
     price: 8.99,
     img: "./images/item-7.jpeg",
-    desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    desc: ` Light and airy cream puffs filled with a rich and savory bacon cream filling, topped with crispy bacon bits for a satisfying crunch.Delicate and flaky eclairs filled with a decadent bacon cream filling, drizzled with a sweet and salty bacon glaze for a unique and delicious flavor combination.`,
   },
   {
     id: 8,
@@ -61,7 +63,7 @@ const menu = [
     category: "lunch",
     price: 12.99,
     img: "./images/item-8.jpeg",
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `A classic American dessert consisting of two layers of fluffy yellow cake filled with creamy vanilla custard and topped with a rich chocolate ganachA delicious pie made with a flaky crust, sliced bananas, and a creamy vanilla custard filling, topped with whipped cream and garnished with banana slices.s `,
   },
   {
     id: 9,
@@ -69,7 +71,7 @@ const menu = [
     category: "shakes",
     price: 16.99,
     img: "./images/item-9.jpeg",
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `Delicious and crispy pastry triangles filled with curried potatoes, carrots, peas, and aromatic seasonings, perfect for a savory snack or appetizer.Sweet and crispy samosas filled with a variety of fillings like chocolate, fruit, or nuts, perfect for a dessert or snack.`,
   },
 ];
 export default menu;
